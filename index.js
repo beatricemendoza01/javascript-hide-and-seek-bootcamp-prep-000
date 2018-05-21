@@ -16,6 +16,6 @@ function increaseRankBy(n) {
   return listItems;
 }
 
-// function deepestChild() {
+function deepestChild() {
   
-// }
+}
