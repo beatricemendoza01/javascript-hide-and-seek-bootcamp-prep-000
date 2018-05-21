@@ -24,5 +24,7 @@ function deepestChild() {
     if (divs[i].childElementCount === 0) {
     	deepestChild = divs[i];
     }
-} 
+  }
+  
+  return deepestChild;
 }
